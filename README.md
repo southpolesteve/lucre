@@ -12,6 +12,8 @@ and the payment amount. All the credit card info stays on
 You can see it in action [here](http://pay.begriffs.com). If you like
 it, why not donate? ;)
 
+[![Deploy to heroku](https://deploy-button.herokuapp.com/southpolesteve/lucre.png)](https://deploy-button.herokuapp.com/southpolesteve/lucre.png)
+
 ## Installation
 
 1. Get a [Stripe](https://stripe.com) account and find your API keys.
