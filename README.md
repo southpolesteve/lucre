@@ -12,7 +12,7 @@ and the payment amount. All the credit card info stays on
 You can see it in action [here](http://pay.begriffs.com). If you like
 it, why not donate? ;)
 
-[![Deploy to heroku](https://deploy-button.herokuapp.com/deploy/southpolesteve/lucre.png)](https://deploy-button.herokuapp.com/deploy/southpolesteve/lucre.png)
+[![Deploy to heroku](https://deploy-button.herokuapp.com/deploy/southpolesteve/lucre.png)](https://deploy-button.herokuapp.com/deploy/southpolesteve/lucre)
 
 ## Installation
 
